@@ -1,4 +1,4 @@
-### Olá! Eu sou a Yasmin Santana ✌
+### Olá! Eu sou a Yasmin Santana 🍄
 
 - 🌱  Estudando: Análise e desenvolvimento de Sistemas - UNIP 
 
