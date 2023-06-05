@@ -24,4 +24,4 @@
 
 </div>
 
-![Snake animation]
+![Snake animation](https://github.com/yasminraujj)
