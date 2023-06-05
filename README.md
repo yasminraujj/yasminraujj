@@ -17,11 +17,12 @@
 
 ##
 
+![Snake animation](https://github.com/yasminraujj/yasminraujj/blob/output/github-contribution-grid-snake.svg)
+
+
 <div style ="display: inline_block"><br>
 
     
 ![ezgif com-resize (1)](https://github.com/yasminraujj/yasminraujj/assets/111451948/caf25374-4fdf-4a77-aad5-4db1b81d5024)
 
 </div>
-
-![Snake animation](https://github.com/yasminraujj/yasminraujj/blob/output/github-contribution-grid-snake.svg)
