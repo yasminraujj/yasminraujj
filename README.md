@@ -2,9 +2,7 @@
 
 - 🌱  Estudando: Análise e desenvolvimento de Sistemas - UNIP
 
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/yasminraujj?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&weeks=30&theme=pink) </dv>
+
 
 
 <div>
@@ -18,10 +16,10 @@
 
 <div style ="display: inline_block"><br>
 
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/yasminraujj?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&weeks=30&theme=pink) </dv> 
 
-<div aling="center">
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/yasminraujj?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&weeks=30&theme=pink)
-    
 ![ezgif com-resize (1)](https://github.com/yasminraujj/yasminraujj/assets/111451948/caf25374-4fdf-4a77-aad5-4db1b81d5024)
 
 </div>
