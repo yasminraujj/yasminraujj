@@ -3,7 +3,7 @@
 - 🌱  Estudando: Análise e desenvolvimento de Sistemas - UNIP
 
 
-![yasminraujj GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![yasminraujj GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminraujj&show_icons=true&theme=radical)
 
 <div>
     <a href="https://instagram.com/_araujj" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
