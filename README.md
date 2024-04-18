@@ -4,7 +4,7 @@
 
 
 ![yasminraujj GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminraujj&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminraujj&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminraujj&layout=donut)](https://github.com/yasminraujj/github-readme-stats)
 
 <div>
     <a href="https://instagram.com/_araujj" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
